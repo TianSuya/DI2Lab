@@ -4,7 +4,7 @@ classes: wide
 permalink: /
 header:
   overlay_filter: linear-gradient(rgba(0, 0, 0, 0.5), rgba(234, 133, 52, 0.5))
-  overlay_image: "https://images.unsplash.com/photo-1596213812143-ff89bd9ddecd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1450&q=80"
+  overlay_image: "https://pic1.imgdb.cn/item/6784eb2ed0e0a243d4f3ed5e.jpg"
   actions:
     - label: "<i class=\"fas fa-users\"></i>   Meet Our Team"
       url: "https://tiansuya.github.io/DI2Lab/team/"
@@ -12,7 +12,7 @@ header:
       url: "https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue"
     - label: "<i class=\"fas fa-book-reader\"></i>   Read Our Work"
       url: "https://tiansuya.github.io/DI2Lab/publications/"
-  caption: "[**Mika Baumeister**](https://unsplash.com/@mbaumi) on [*Unsplash*](https://unsplash.com)"
+  caption: " "
 research_intro:
   - title: Research Areas
   - excerpt: 'In the Design Research Collective, we explore research at the intersection of engineering design, psychology, and computer science to create superpowers for designers, engineers, and problem-solvers.'
