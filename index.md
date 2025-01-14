@@ -12,7 +12,7 @@ header:
       url: "https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue"
     - label: "<i class=\"fas fa-book-reader\"></i>   Read Our Work"
       url: "https://tiansuya.github.io/DI2Lab/publications/"
-  caption: " "
+  # caption: " "
 research_intro:
   - title: Research Areas
   - excerpt: 'In the DI²Lab lab, we focus on exploring the intrinsic mechanisms of Large Language Models(LLMs) as well as deep models, while also paying close attention to the cross-fertilization of AI with downstream tasks.'
