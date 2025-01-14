@@ -6,6 +6,20 @@
   email: "songninglai@hkust-gz.edu.cn"
   alum: false
 
+- first: Jiemin                                                                                                                                                                                                                                                          
+  last: Wu
+  role: Researcher
+  headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Jiemin-Wu.jpg"
+  email: "jieminwu@hkust-gz.edu.cn"
+  alum: false
+
+- first: Jiayu                                                                                                                                                                                                                                                          
+  last: Yang
+  role: Researcher
+  headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Jiayu-Yang.gif"
+  email: "jiayuwang@hkust-gz.edu.cn"
+  alum: false
+
 - first: Shengen                                                                                                                                                                                                                                                              
   last: Wu
   role: Researcher
