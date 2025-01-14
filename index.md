@@ -4,7 +4,7 @@ classes: wide
 permalink: /
 header:
   # overlay_filter: linear-gradient(rgba(0, 0, 0, 0.5), rgba(234, 133, 52, 0.5))
-  overlay_image: "https://tiansuya.github.io/DI2Lab/assets/home-1.png"
+  overlay_image: "https://tiansuya.github.io/DI2Lab/assets/home-1.jpg"
   actions:
     - label: "<i class=\"fas fa-users\"></i>   Meet Our Team"
       url: "https://tiansuya.github.io/DI2Lab/team/"
