@@ -23,7 +23,9 @@
   last: Zhang
   role: Researcher
   alum: false
-  email: "yuanyuan.zhang16@student.xjtlu.edu.cn"
+  email: 
+    "yuanyuan.zhang16@student
+    .xjtlu.edu.cn"
   headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Yuanyuan Zhang.jpeg"
   
 - first: Zhengyang
