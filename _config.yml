@@ -3,7 +3,7 @@ minimal_mistakes_skin    : "drc" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DI2Lab"
+title                    : "DI²Lab"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : # "Your Name"
