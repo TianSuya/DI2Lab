@@ -1,7 +1,7 @@
 - first: Shengen                                                                                                                                                                                                                                                              
   last: Wu
   role: Researcher
-  headshot: "/assets/headshots/Shengen Wu"
+  headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Shengen Wu.jpeg"
   email: "wu.shengen@outlook.com"
   alum: false
 
@@ -10,13 +10,13 @@
   role: Researcher
   alum: false
   email: "Haocheng.Zhao@hotmail.com"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/chen.jpeg"
+  headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Haocheng Zhao.jpeg"
   
 - first: Gaoxiang
   last: Huang
   role: Researcher
   email: "ghuang991@connect.hkust-gz.edu.cn"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/agrawal.jpeg"
+  headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Gaoxiang Huang.jpeg"
   alum: false
   
 - first: Yuanyuan
@@ -24,41 +24,41 @@
   role: Researcher
   alum: false
   email: "yuanyuan.zhang16@student.xjtlu.edu.cn"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/Baldwin.jpg"
+  headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Yuanyuan Zhang.jpeg"
   
 - first: Zhengyang
   last: Ji
   role: Researcher
   alum: false
   email: "19862833079@163.com"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/mcgee.jpeg"
+  headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Zhengyang Ji.jpeg"
   
 - first: Wenshuo
   last: Chen
   role: Researcher
   alum: false
   email: "chatoncws@gmail.com"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/xu.jpeg"
+  headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Wenshuo Chen.jpeg"
   
 - first: Runwei
   last: Guan
   role: Researcher
   alum: false
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/noorghasemi.jpeg"
+  headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Runwei Guan.jpeg"
   email: "thinkerai@foxmail.com"
   
 - first: Kaishen
   last: Yuan
   role: Researcher
   alum: false
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/zxu.jpeg"
+  headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Kaishen Yuan.jpeg"
   email: "kaisheny@hkust-gz.edu.cn"
   
 - first: Zhangyi
   last: Hu
   role: Researcher
   alum: false
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/ezemba.jpeg"
+  headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Zhangyi Hu.jpeg"
   email: "zhangyi_hu@hkust-gz.edu.cn"
   
 - first: Zihe
@@ -66,25 +66,25 @@
   role: Researcher
   alum: false
   email: "zzhao056@connect.hkust-gz.edu.cn"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/agarwal.jpeg"
+  headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Zihe Zhao.jpeg"
 
 - first: Yifan
   last: Jia
   role: Researcher
   alum: false
   email: "kyrieyifank@hkust-gz.edu.cn"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/giovanni.jpg"
+  headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Yifan Jia.jpeg"
 
 - first: Shanliang
   last: Yao
   role: Researcher
   alum: false
   email: "i@aiotv.cn"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/osunsanya.jpg"
+  headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Shanliang Yao.jpeg"
 
 - first: Kuimou
   last: Yu
   role: Researcher
   alum: false
   email: "kyu745@connect.hkust-gz.edu.cn"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/dzhang.jpeg"
+  headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Kuimou Yu.jpeg"
