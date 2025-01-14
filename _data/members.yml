@@ -1,3 +1,11 @@
+
+- first: Songning                                                                                                                                                                                                                                                              
+  last: Lai
+  role: Researcher
+  headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Songning-Lai.gif"
+  email: "songninglai@hkust-gz.edu.cn"
+  alum: false
+
 - first: Shengen                                                                                                                                                                                                                                                              
   last: Wu
   role: Researcher
@@ -42,13 +50,6 @@
   email: "chatoncws@gmail.com"
   headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Wenshuo-Chen.jpeg"
   
-- first: Runwei
-  last: Guan
-  role: Researcher
-  alum: false
-  headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Runwei-Guan.jpeg"
-  email: "thinkerai@foxmail.com"
-  
 - first: Kaishen
   last: Yuan
   role: Researcher
@@ -90,3 +91,37 @@
   alum: false
   email: "kyu745@connect.hkust-gz.edu.cn"
   headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Kuimou-Yu.jpeg"
+
+- first: Tianlang
+  last: Xue
+  role: Researcher
+  alum: true
+  # email: "kyu745@connect.hkust-gz.edu.cn"
+  # headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Kuimou-Yu.jpeg"
+
+- first: Runwei
+  last: Guan
+  role: Researcher
+  alum: true
+  # headshot: "https://tiansuya.github.io/DI2Lab/assets/headshots/Runwei-Guan.jpeg"
+  # email: "thinkerai@foxmail.com"
+
+- first: Yi
+  last: Zhou
+  role: Researcher
+  alum: true
+
+- first: Shanliang
+  last: Yao
+  role: Researcher
+  alum: true
+
+- first: Zhihao
+  last: Shuai
+  role: Researcher
+  alum: true
+
+- first: Hubing
+  last: Li
+  role: Researcher
+  alum: true
