@@ -15,7 +15,7 @@ header:
   caption: " "
 research_intro:
   - title: Research Areas
-  - excerpt: 'In the Design Research Collective, we explore research at the intersection of engineering design, psychology, and computer science to create superpowers for designers, engineers, and problem-solvers.'
+  - excerpt: 'In the DI2Lab lab, we focus on exploring the intrinsic mechanisms of Large Language Models(LLMs) as well as deep models, while also paying close attention to the cross-fertilization of AI with downstream tasks.'
 research_areas:
   - image_path: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
     title: "People Doing Design"
