@@ -34,11 +34,11 @@ application_intro:
   - excerpt: 'In addition to the above research directions, DI²Lab also focuses on the use of advanced technologies to solve real-world problems.'
 application_areas:
   - title: "LLM Applications in Time-Series Prediction"
-    image_path: "https://images.unsplash.com/photo-1512772452758-275f069da6bf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
+    image_path: "/assets/background/time_resized.jpg"
   - title: "LLM Applications in Astronomy"
-    image_path: "https://images.unsplash.com/photo-1512772452758-275f069da6bf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
+    image_path: "/assets/background/ana_resized.jpg"
   - title: "LLM Applications in Life Science"
-    image_path: "https://images.unsplash.com/photo-1512772452758-275f069da6bf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
+    image_path: "/assets/background/life_resized.png"
   # - image_path: "https://images.unsplash.com/photo-1512772452758-275f069da6bf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
   #   title: "Marine Renewable Energy"
   #   excerpt: "As climate changes continues to impact our world, we design new ways to generate electricity from the power of the ocean."
