@@ -35,12 +35,11 @@ research_areas:
     # image_caption: "[**Adi Golstein**](https://unsplash.com/@adigold1) on [*Unsplash*](https://unsplash.com)"
 application_intro:
   - title: Application Domains
-  - excerpt: 'Across these research areas, we make fundamental advances in some important application domains. Here are a few of those.'
-# application_areas:
-#   - image_path: "https://images.unsplash.com/photo-1597765654525-5cb60d312ef6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-#     title: "Additive Manufacturing"
-#     excerpt: "We help designers capitalize on the new capabilities provided by additive manufacturing and 3D printing."
-#     image_caption: "[**Tom Claes**](https://unsplash.com/@tomspentys) on [*Unsplash*](https://unsplash.com)"
+  - excerpt: 'In addition to the above research directions, DI²Lab also focuses on the use of advanced technologies to solve real-world problems.'
+application_areas:
+  - title: "LLM Applications in Time-Series Prediction"
+  - title: "LLM Applications in Astronomy"
+  - title: "LLM Applications in Life Science"
   # - image_path: "https://images.unsplash.com/photo-1512772452758-275f069da6bf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
   #   title: "Marine Renewable Energy"
   #   excerpt: "As climate changes continues to impact our world, we design new ways to generate electricity from the power of the ocean."
