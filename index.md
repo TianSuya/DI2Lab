@@ -17,15 +17,15 @@ research_intro:
   - title: Research Areas
   - excerpt: 'In the DI²Lab lab, we focus on exploring the intrinsic mechanisms of Large Language Models(LLMs) as well as deep models, while also paying close attention to the cross-fertilization of AI with downstream tasks.'
 research_areas:
-  - image_path: "/assets/background/fusion.png"
+  - image_path: "/assets/background/fusion_resized.png"
     title: "Multi-modal Perception Fusion"
     excerpt: "Multimodal fusion sensing of vision, radar, text, and speech for ground water unmanned vehicles, human walking head and ECG signs, drones and robots, etc."
     # image_caption: "[**Marvin Meyer**](https://unsplash.com/@marvelous) on [*Unsplash*](https://unsplash.com)"
-  - image_path: "/assets/background/trust.avif"
+  - image_path: "/assets/background/trust_resized.png"
     title: "LLM Mechanism and Trustworthy AI"
     excerpt: "Research and enhancement of model credibility in safety-sensitive scenarios such as medical care and autonomous driving based on causal mechanism research."
     # image_caption: "[**ThisisEngineering**](https://unsplash.com/@thisisengineering) on [*Unsplash*](https://unsplash.com)"
-  - image_path: "/assets/background/machine.jpg"
+  - image_path: "/assets/background/machine_resized.jpg"
     title: "Machine Consciousness"
     excerpt: "Constructing Artificial Consciousness, Exploring the Origin of Consciousness, and Scientifically Assessing the Benefits and Risks of Machine Consciousness."
     # image_caption: "[**Adi Golstein**](https://unsplash.com/@adigold1) on [*Unsplash*](https://unsplash.com)"
