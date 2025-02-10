@@ -10,10 +10,8 @@ header:
 
 <!-- {% include base_path %} -->
 
-<div class="grid__wrapper">
-  {% for post in site.posts %}
-    {% if post.categories contains 'blog' %}  <!-- 假设你的博客都包含blog分类 -->
-      {% include archive-single.html type="grid" %}
-    {% endif %}
-  {% endfor %}
-</div>
+{% for post in site.posts reversed %}
+  <h2>{{ post.title }}</h2>
+  <p>{{ post.date | date: "%Y-%m-%d" }}</p>
+  <p>{{ post.excerpt }}</p>
+{% endfor %}
