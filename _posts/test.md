@@ -1,8 +1,8 @@
 ---
 title: "我们的最新研究成果：XXX系统的开发"
 date: 2024-03-15
-author: Bowen Tian
-categories: blog
+author: Yutao Yue
+categories: blogs
 tags:
   - research
   - system

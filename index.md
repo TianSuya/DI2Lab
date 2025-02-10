@@ -15,7 +15,7 @@ header:
   # caption: " "
 research_intro:
   - title: Research Areas
-  - excerpt: 'In the DI²Lab lab, we focus on exploring the intrinsic mechanisms of Large Language Models(LLMs) as well as deep models, while also paying close attention to the cross-fertilization of AI with downstream tasks.'
+  - excerpt: 'In the DI²Lab, we focus on exploring the intrinsic mechanisms of Large Language Models(LLMs) as well as deep models, while also paying close attention to the cross-fertilization of AI with downstream tasks.'
 research_areas:
   - image_path: "/assets/background/fusion_resized.png"
     title: "Multi-modal Perception Fusion"

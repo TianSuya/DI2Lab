@@ -8,7 +8,7 @@ header:
   excerpt: "We will share interesting information about DI²Lab here!"
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 <div class="grid__wrapper">
   {% for post in site.posts %}
