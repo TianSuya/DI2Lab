@@ -5,7 +5,7 @@ permalink: /blogs/
 header:
   image: "https://tiansuya.github.io/DI2Lab/assets/home-1.jpg"  # 可以使用实验室相关的头图
   caption: "Welcome to our lab blog!"
-  excerpt: "We will share interesting information about DI²Lab here!"
+excerpt: "We will share interesting information about DI²Lab here!"
 ---
 
 {% for post in site.posts reversed %}
