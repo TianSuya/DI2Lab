@@ -8,8 +8,6 @@ header:
   excerpt: "We will share interesting information about DI²Lab here!"
 ---
 
-<!-- {% include base_path %} -->
-
 {% for post in site.posts reversed %}
   <h2>{{ post.title }}</h2>
   <p>{{ post.date | date: "%Y-%m-%d" }}</p>
