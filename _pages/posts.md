@@ -8,7 +8,7 @@ header:
 excerpt: "We will share interesting information about DI²Lab here!"
 ---
 
-{% for post in site.blogs reversed %}
+{% for post in site.posts reversed %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p>{{ post.date | date: "%Y-%m-%d" }}</p>
 {% endfor %}
