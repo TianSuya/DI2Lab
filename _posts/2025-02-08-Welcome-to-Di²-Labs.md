@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Di² Labs!"
+title: "Welcome to Di² Labs"
 date: 2025-02-08
 permalink: /DI2Lab/posts/:year/:month/:day/:title/
 # excerpt: "Wel CCOME"
