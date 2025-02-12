@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "DI²Lab Blogs"
-permalink: /blogs/
+permalink: /posts/
 header:
   overlay_image: "https://tiansuya.github.io/DI2Lab/assets/home-1.jpg"  # 可以使用实验室相关的头图
   caption: "Welcome to our lab blog!"
