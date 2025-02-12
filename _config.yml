@@ -95,11 +95,10 @@ author:
 
 collections:
   news:
-    output: true
-    permalink: /news/:year/:month/:day/:title/
+    output: false
   blogs:
     output: true
-    permalink: /blogs/:year/:month/:day/:title/
+    permalink: /blogs/:title/
 
 # Site Footer
 footer:
