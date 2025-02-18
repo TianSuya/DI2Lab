@@ -242,10 +242,10 @@ compress_html:
   ignore:
     envs: development
 
-# collections:
-#   news:
-#     output: true
-#     permalink: /news/:year/:month/:day/:title/
+collections:
+  news:
+    output: true
+    permalink: /news/:title/
 
 # Defaults
 defaults:
